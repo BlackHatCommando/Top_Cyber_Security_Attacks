@@ -83,7 +83,7 @@ Common via:
 
 > Subject: *Client Presentation Update – Action Required*
 
-Hi Sunil,
+Hi Somu,
 As discussed in yesterday’s meeting, please review the updated presentation before 4 PM.
 
 👉 [Download File]
