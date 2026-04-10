@@ -12,7 +12,7 @@ Instead of:
 
 You get:
 
-> “Hi Sunil, regarding your Cybersecurity YouTube project…”
+> “Hi Somu, regarding your Cybersecurity YouTube project…”
 
 That’s when it gets dangerous.
 
